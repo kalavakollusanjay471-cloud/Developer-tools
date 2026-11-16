@@ -8,4 +8,4 @@
 - Simple website
 - Easy to use
 ## Author
--Student Name
+- Student Name
